@@ -4,7 +4,7 @@ Building at the intersection of onchain finance and AI agent infrastructure.
 
 ## Projects
 
-### XGuard Hook
+### [XGuard Hook](https://github.com/azen07508-debug/xguard-hook)
 
 Dynamic risk-fee [Uniswap v4](https://docs.uniswap.org/contracts/v4/overview) Hook for new-asset,
 meme, and low-cap pools on X Layer. LP fees scale with swap impact — `Normal` 0.30%,
@@ -16,7 +16,7 @@ override, risk decay, and hard-threshold blocking paths.
 
 `Solidity` `Foundry` `Uniswap v4` `X Layer` — [live demo](https://xguard-hook.vercel.app)
 
-### RepoPilot
+### [RepoPilot](https://github.com/azen07508-debug/repopilot)
 
 GitHub repository launch-readiness audit. Point it at a public repo and get a structured
 report: evidence-backed findings (every claim carries a `path:line:reason` pointer),
